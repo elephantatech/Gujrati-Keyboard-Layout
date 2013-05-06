@@ -15,6 +15,7 @@ Installation
 ============
 
 To install the layout download the zip file <a href="https://github.com/elephantatech/Gujrati-Keyboard-Layout/blob/master/gujw8.zip">Gujw8.zip</a>
+Works for both 32 bit and 64 bit. run the AMD64.exe for 64-bit.
 
 For other OS installation for the Keyboard check out http://gujarati.anirdesh.com/download.php
 
