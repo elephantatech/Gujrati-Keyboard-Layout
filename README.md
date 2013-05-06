@@ -14,6 +14,7 @@ To use change the layout in windows you require Microsft Keyboard layout creator
 Installation
 ============
 
+Install Gujrati language pack first before you install the layout
 To install the layout download the zip file <a href="https://github.com/elephantatech/Gujrati-Keyboard-Layout/blob/master/gujw8.zip">Gujw8.zip</a>
 Works for both 32 bit and 64 bit. run the AMD64.exe for 64-bit.
 
@@ -22,7 +23,9 @@ For other OS installation for the Keyboard check out http://gujarati.anirdesh.co
 How to Use it
 =============
 
-How to use this layout check his the page out http://gujarati.anirdesh.com/Gujarati-Layout.php
+After installation of the layout simply change keyboard you want to use on the application and change font type to Shruti. the Keyboard was optimized with the font Shruti in mind but might work with other fonts as well that come with windows by default.
+
+How to use this layout check his the page out for the methodto use this layout http://gujarati.anirdesh.com/Gujarati-Layout.php
 
 Acknowledgement
 ===============
